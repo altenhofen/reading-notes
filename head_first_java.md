@@ -214,7 +214,9 @@ Prevents duplicates in the collection, and given an element, can find that eleme
 Like a regular HashMap, except it can remember the order in which elements (name/value pairs) were inserted, or it can be configured to remember the order in which elements were last accessed.
 
 # collection hierarchy
+```
 Collection Framework (partial)
+
 
 Collection (interface)
 ├── Set (interface)
@@ -237,7 +239,7 @@ Map (interface)
 ├── HashMap (class)
 ├── LinkedHashMap (class)
 └── Hashtable (class)
-
+```
 
 # overriding hashcode and equals
 
