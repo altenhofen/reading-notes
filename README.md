@@ -5,5 +5,5 @@ grep-able notes of what I'm reading
 - Grokkiing Algorithms 
 - Effective Java 3rd Edition
 
-# finished
+## finished
 - Head First Java 2nd Edition
